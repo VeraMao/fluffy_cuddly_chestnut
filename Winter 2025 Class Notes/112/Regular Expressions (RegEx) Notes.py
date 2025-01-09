@@ -1,4 +1,4 @@
-
+'''
 Regular Expressions (RegEx) Notes
 - sequence of characters that define a search pattern
 - search(), match(), findall(), split(), sub()
@@ -132,5 +132,5 @@ re.findall('[a-zA-Z][a-z][a-z][a-z]', d)
 re.findall(r"....$", d) # $表示结尾, 这里是找了
 结果是['12hi']
 
-
+'''
 
