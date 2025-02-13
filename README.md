@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jiaming Mao</h1>
 <h3 align="center">Candidate of UChicago MA Computational Social Science</h3>
 
-- 🔭 I’m currently working on *Designing a machine learning research project to compare police reports with university reports of crimes on college campuses.*
-- Also *How does the level of embodiment of AI companion alleviates users' loneliness?*
+- 🔭 I’m currently working on *Designing a machine learning research project on "How does the level of embodiment of AI companion alleviates users' loneliness?"*
 
 - 📫 How to reach me **jmao0220@uchicago.edu**
 
