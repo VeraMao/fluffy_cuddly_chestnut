@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jiaming Mao</h1>
+<h1 align="center">Hi 👋, I'm Jiaming(Vera) Mao</h1>
 <h3 align="center">Candidate of UChicago MA Computational Social Science</h3>
 
 - 🔭 I’m currently working on *Designing a machine learning research project on "How does the level of embodiment of AI companion alleviates users' loneliness?"*
